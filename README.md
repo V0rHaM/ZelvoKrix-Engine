@@ -1,1 +1,27 @@
-# [Wiki](https://github.com/V0rHaM/ZelvoKrix-Engine/wiki)
+# ZelvoKrix Engine
+ 
+**ZelvoKrix Engine** — игровой движок с визуальным редактором для Windows. Игры (2D и 3D) собираются мышкой, а когда нужна свобода, подключаются скрипты на JavaScript. Готовая игра отдаётся игрокам обычной папкой с `.exe`.
+ 
+## Скачать
+ 
+Установщик и список изменений каждой версии: **[Releases](https://github.com/V0rHaM/ZelvoKrix-Engine/releases)**.
+Редактор обновляется сам: *Справка → О программе → Проверить обновления*.
+ 
+## Документация
+ 
+Всё, что умеет движок, как им пользоваться и текущие ограничения описано в **[вики](https://github.com/V0rHaM/ZelvoKrix-Engine/wiki)**. Она обновляется вместе с движком.
+ 
+- [Быстрый старт](https://github.com/V0rHaM/ZelvoKrix-Engine/wiki/Быстрый-старт): от установки до собранной игры за 10 минут.
+- [Все разделы](https://github.com/V0rHaM/ZelvoKrix-Engine/wiki)
+## Обратная связь
+ 
+Нашли ошибку или есть идея? Создайте [Issue](https://github.com/V0rHaM/ZelvoKrix-Engine/issues).
+ 
+## О репозитории
+ 
+Здесь публикуются релизы и документация. Исходный код движка закрыт.
+ 
+---
+ 
+Автор: [V0rHaM](https://github.com/V0rHaM)
+ 
