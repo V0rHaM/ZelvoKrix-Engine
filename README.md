@@ -1,5 +1,4 @@
-<img width="920" height="480" alt="Баннер" src="https://github.com/user-attachments/assets/12fb38c2-0e5a-4af8-94e1-acfbeef6dc7b" />
-
+<img width="3360" height="1440" alt="Banner" src="https://github.com/user-attachments/assets/e10e1d89-8551-43db-a109-079da77cf991" />
  
 **ZelvoKrix Engine** — игровой движок с визуальным редактором для Windows. Игры (2D и 3D) собираются мышкой, а когда нужна свобода, подключаются скрипты на JavaScript. Готовая игра отдаётся игрокам обычной папкой с `.exe`.
  
