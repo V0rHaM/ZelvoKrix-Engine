@@ -12,6 +12,7 @@
 Всё, что умеет движок, как им пользоваться и текущие ограничения описано в **[вики](https://github.com/V0rHaM/ZelvoKrix-Engine/wiki)**. Она обновляется вместе с движком.
  
 - [Быстрый старт](https://github.com/V0rHaM/ZelvoKrix-Engine/wiki/Быстрый-старт): от установки до собранной игры за 10 минут.
+- [ИИ-подключение (MCP)](https://github.com/V0rHaM/ZelvoKrix-Engine/wiki/ИИ-подключение-MCP): нейросеть создаёт сцены, настраивает логику и пробует игру.
 - [Все разделы](https://github.com/V0rHaM/ZelvoKrix-Engine/wiki)
 ## Обратная связь
  
@@ -24,4 +25,3 @@
 ---
  
 Автор: [V0rHaM](https://github.com/V0rHaM)
- 
